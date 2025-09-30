@@ -48,7 +48,7 @@ device_specs = {
 # 4. Streamlit UI Setup
 st.set_page_config(layout="wide")  # Full width dashboard
 
-st.title("🏭 Energy & Carbon Future Forecast (Machine Learning + Appliance Inputs)")
+st.title("Carbon Footprint Calculator Using Random Forest")
 st.markdown("""
 This dashboard combines **ML predictions (Linear Regression + Random Forest)**  
 with your **custom inputs (hours/day, load %, units of appliances)**  
